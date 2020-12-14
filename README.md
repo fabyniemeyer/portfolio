@@ -1,4 +1,4 @@
-## Project Management Portfolio/Samples
+## Project Management Portfolio
 
 | Description | Files |
 | -------| ------ |
